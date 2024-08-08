@@ -4,9 +4,9 @@
 @import url(/Glass-Wave/Addons/Animations.css);
 
 :root {
-    --var-background: linear-gradient(138deg, rgba(162,247,220,1) 0%, rgba(18,145,187,1) 80%, rgba(35,108,179,1) 100%);
+    --var-background: linear-gradient(138deg, rgba(38, 55, 201,0.4) 0%, rgba(26, 44, 150,0.4) 80%, rgba(13, 54, 189,1) 100%);
     --var-accent: #0a4355;
-    --var-popout-color: rgb(10 21 21);
+    --var-popout-color: rgb(6 13 28);
     --var-background-size: cover;
     --var-background-position: center;
     --var-font: 'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -23,8 +23,8 @@
     --var-hover100: rgb(181 181 181 / 100%);
 
     /* Discord VARS */
-    --green-360: rgb(35 165 89 / 80%);
-    --green-330: rgb(35 165 89 / 100%);
+    --green-360: rgb(35 135 165 / 80%);
+    --green-330: rgb(35 135 165 / 100%);
     --status-danger: var(--var-notification);
 }
 /* Theme info and version */
